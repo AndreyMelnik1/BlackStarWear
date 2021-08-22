@@ -1,0 +1,35 @@
+PODS:
+  - Alamofire (5.4.3)
+  - AlamofireImage (4.2.0):
+    - Alamofire (~> 5.4)
+  - Realm (10.12.0):
+    - Realm/Headers (= 10.12.0)
+  - Realm/Headers (10.12.0)
+  - RealmSwift (10.12.0):
+    - Realm (= 10.12.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - AlamofireImage
+  - RealmSwift
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - Realm
+    - RealmSwift
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  AlamofireImage: 34a2d90b0e5fe6a5605f85ae4b7b01e784c60192
+  Realm: 32488213acb44660539c619d620cec1bac046166
+  RealmSwift: 0abdca6231d5ff8a4f84cef9c1121ef95a483faf
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 0423e489cd8ce28385f153f40f55ebff74a5bc8d
+
+COCOAPODS: 1.11.0.beta.2
