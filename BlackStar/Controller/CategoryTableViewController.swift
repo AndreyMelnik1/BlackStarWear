@@ -17,7 +17,7 @@ class CategoryTableViewController: UITableViewController {
     let imageUrlString =  "https://blackstarshop.ru/"
     var category_ID = ""
     var tableIndex = 0
-    
+    var id = ""
     
     override func viewDidLoad() {
         super.viewDidLoad()
